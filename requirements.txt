@@ -3,3 +3,5 @@ pdf2image
 python-dotenv
 langchain-groq
 PyPDF2
+fpdf
+python-docx
